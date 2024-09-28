@@ -7,7 +7,7 @@ We are making _AI Frieren_ by using ChatGPT. Frieren is the main protagonist of 
 ### Methods
 
 We're still working on it
-[here!](https://chatgpt.com/g/g-yw582UOzK-frieren).
+[here!](https://chatgpt.com/g/g-yw582UOzK-frieren)
 
 ### References
 
