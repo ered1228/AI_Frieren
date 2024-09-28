@@ -2,7 +2,7 @@
 This is why I started GitHub.
 
 ### Introduction
-We are making _AI Frieren_ by using ChatGPT. Frieren is the main protagonist of <葬送のフリーレン(장송의 프리렌, Frieren: Beyond Journey's End)>. We want to create an AI that answers loke her when a user enters a line at the prompt.
+We are making _AI Frieren_ by using ChatGPT. Frieren is the main protagonist of <葬送のフリーレン(장송의 프리렌, Frieren: Beyond Journey's End)>. We want to create an AI that answers like her when a user enters a line at the prompt.
 
 ### Methods
 
