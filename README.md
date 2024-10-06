@@ -9,6 +9,11 @@ We are making _AI Frieren_ by using ChatGPT. Frieren is the main protagonist of 
 We're still working on it
 [here!](https://chatgpt.com/g/g-yw582UOzK-frieren)
 
+### Todo
+
+* 1급 마법사 시험 편 등장인물 학습
+* 마족 학습
+
 ### References
 
 * [Namuwiki - 葬送のフリーレン](https://namu.wiki/w/%EC%9E%A5%EC%86%A1%EC%9D%98%20%ED%94%84%EB%A6%AC%EB%A0%8C)
